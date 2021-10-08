@@ -3,9 +3,11 @@ My custom build of dwm.
 
 Installation.
 -------------
+```
 git clone https://github.com/Coelll/dwm
 cd dwm
 sudo make install 
+```
 
 Running dwm
 -----------
