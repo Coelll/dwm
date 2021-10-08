@@ -1,0 +1,7 @@
+Github does not allow to add empty files, so here is the list of files which 
+are supposed to be in this folder as well:
+dwm - as a text file type,
+dwm.o - as a text file type,
+util.o - as a text file type.
+
+That's it.
